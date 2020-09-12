@@ -1,0 +1,38 @@
+h1
+{
+	color:pink;
+	font-family:ARIAL black;
+
+}
+body
+{
+font-family:georgia; 
+}
+#carte
+{
+	width:1000px;
+	margin:0 auto;
+	text-align:center;
+	align-content:center;
+}
+ul li
+{
+	list-style-type:none;
+	font:italic;
+	color:yellow;
+}
+body
+{
+	font:italic;grid-auto-rows;
+	color:grey; 
+	background-image:url("background.png");
+
+}
+h3
+{
+	font-family:verdana;
+}
+a
+{
+	color:red;
+}
